@@ -1,0 +1,16 @@
+{
+  "name": "richcanaday",
+  "version": "1.0.0",
+  "description": "A resume site for a video producer",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "video.js": "6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nephi Wright",
+  "license": "ISC"
+}
